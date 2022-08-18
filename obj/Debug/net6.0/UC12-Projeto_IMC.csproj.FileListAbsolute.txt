@@ -1,0 +1,15 @@
+C:\Users\User\Documents\CURSOS\PROGRAMADOR FULL STACK SENAI\UC12 - BACK END CODIFICAÇÃO\SA2\Exercicios\UC12-Projeto_IMC\bin\Debug\net6.0\UC12-Projeto_IMC.exe
+C:\Users\User\Documents\CURSOS\PROGRAMADOR FULL STACK SENAI\UC12 - BACK END CODIFICAÇÃO\SA2\Exercicios\UC12-Projeto_IMC\bin\Debug\net6.0\UC12-Projeto_IMC.deps.json
+C:\Users\User\Documents\CURSOS\PROGRAMADOR FULL STACK SENAI\UC12 - BACK END CODIFICAÇÃO\SA2\Exercicios\UC12-Projeto_IMC\bin\Debug\net6.0\UC12-Projeto_IMC.runtimeconfig.json
+C:\Users\User\Documents\CURSOS\PROGRAMADOR FULL STACK SENAI\UC12 - BACK END CODIFICAÇÃO\SA2\Exercicios\UC12-Projeto_IMC\bin\Debug\net6.0\UC12-Projeto_IMC.dll
+C:\Users\User\Documents\CURSOS\PROGRAMADOR FULL STACK SENAI\UC12 - BACK END CODIFICAÇÃO\SA2\Exercicios\UC12-Projeto_IMC\bin\Debug\net6.0\UC12-Projeto_IMC.pdb
+C:\Users\User\Documents\CURSOS\PROGRAMADOR FULL STACK SENAI\UC12 - BACK END CODIFICAÇÃO\SA2\Exercicios\UC12-Projeto_IMC\obj\Debug\net6.0\UC12-Projeto_IMC.csproj.AssemblyReference.cache
+C:\Users\User\Documents\CURSOS\PROGRAMADOR FULL STACK SENAI\UC12 - BACK END CODIFICAÇÃO\SA2\Exercicios\UC12-Projeto_IMC\obj\Debug\net6.0\UC12-Projeto_IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CURSOS\PROGRAMADOR FULL STACK SENAI\UC12 - BACK END CODIFICAÇÃO\SA2\Exercicios\UC12-Projeto_IMC\obj\Debug\net6.0\UC12-Projeto_IMC.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CURSOS\PROGRAMADOR FULL STACK SENAI\UC12 - BACK END CODIFICAÇÃO\SA2\Exercicios\UC12-Projeto_IMC\obj\Debug\net6.0\UC12-Projeto_IMC.AssemblyInfo.cs
+C:\Users\User\Documents\CURSOS\PROGRAMADOR FULL STACK SENAI\UC12 - BACK END CODIFICAÇÃO\SA2\Exercicios\UC12-Projeto_IMC\obj\Debug\net6.0\UC12-Projeto_IMC.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CURSOS\PROGRAMADOR FULL STACK SENAI\UC12 - BACK END CODIFICAÇÃO\SA2\Exercicios\UC12-Projeto_IMC\obj\Debug\net6.0\UC12-Projeto_IMC.dll
+C:\Users\User\Documents\CURSOS\PROGRAMADOR FULL STACK SENAI\UC12 - BACK END CODIFICAÇÃO\SA2\Exercicios\UC12-Projeto_IMC\obj\Debug\net6.0\refint\UC12-Projeto_IMC.dll
+C:\Users\User\Documents\CURSOS\PROGRAMADOR FULL STACK SENAI\UC12 - BACK END CODIFICAÇÃO\SA2\Exercicios\UC12-Projeto_IMC\obj\Debug\net6.0\UC12-Projeto_IMC.pdb
+C:\Users\User\Documents\CURSOS\PROGRAMADOR FULL STACK SENAI\UC12 - BACK END CODIFICAÇÃO\SA2\Exercicios\UC12-Projeto_IMC\obj\Debug\net6.0\UC12-Projeto_IMC.genruntimeconfig.cache
+C:\Users\User\Documents\CURSOS\PROGRAMADOR FULL STACK SENAI\UC12 - BACK END CODIFICAÇÃO\SA2\Exercicios\UC12-Projeto_IMC\obj\Debug\net6.0\ref\UC12-Projeto_IMC.dll
